@@ -1,0 +1,7 @@
+main.c
+*.gcno
+*.gcda
+libgc.a
+.vscode
+*.o
+*.dSYM
